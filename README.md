@@ -53,7 +53,7 @@ plt.imshow(results)
 
 ## Conclusion
 This README provides an overview of the project for detecting parking space availability using YOLOv8. By following the provided instructions, users can train the model on their dataset, evaluate its performance, and visualize the detection results. This system can be further enhanced and integrated into real-world applications for parking management and surveillance.
-Note: This model achieves a mAP of .70 on validation data. To achieve even better results, you can try yolov9
+Note: This model achieves a mAP of .70 on validation data. To achieve even better results, you can try [yolov9](https://github.com/WongKinYiu/yolov9)
 
 ## Contributor
 - [Emmanuel Rono](https://github.com/marttech26)
