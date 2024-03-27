@@ -1,4 +1,4 @@
-# Parking Space Availability Detection
+# Parking Space Availability System
 
 ## Overview
 This project aims to develop a system for detecting parking space availability using computer vision techniques, specifically employing YOLO (You Only Look Once) for object detection. YOLOv8 is a state-of-the-art real-time object detection system that offers high accuracy and efficiency. By utilizing this model, we can identify and monitor parking spaces in real-time through video feeds.
