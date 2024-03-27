@@ -1,7 +1,7 @@
 # Parking Space Availability System
 
 ## Overview
-This project aims to develop a system for detecting parking space availability using computer vision techniques, specifically employing YOLO (You Only Look Once) for object detection. YOLOv8 is a state-of-the-art real-time object detection system that offers high accuracy and efficiency. By utilizing this model, we can identify and monitor parking spaces in real-time through video feeds.
+This project aims to develop a system for detecting parking space availability using computer vision techniques, specifically employing YOLO (You Only Look Once) for object detection. YOLOv is a state-of-the-art real-time object detection system that offers high accuracy and efficiency. By utilizing this model, we can identify and monitor parking spaces in real-time through video feeds.
 
 ## Computer Vision
 Computer vision is a field of artificial intelligence that focuses on enabling computers to interpret and understand the visual world. It involves developing algorithms and techniques to extract meaningful information from digital images or videos. Computer vision techniques are widely used in various applications such as image recognition, object detection, facial recognition, and autonomous vehicles.
